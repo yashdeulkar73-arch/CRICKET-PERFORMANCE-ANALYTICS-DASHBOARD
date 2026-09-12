@@ -47,36 +47,7 @@ The interactive dashboard can be used to identify:
 - Distribution of bowling styles
 - Player and team performance using interactive filters
 
-## 📁 Project Files
 
-```text
-Cricket-Performance-Analytics-Excel/
-│
-├── README.md
-├── Cricket_Performance_Analytics_Dashboard.xlsx
-└── screenshots/
-    └── dashboard.png
-```
 
-## 💡 Skills Demonstrated
 
-This project demonstrates practical skills in:
-
-**Excel | Data Analysis | Dashboard Development | Data Visualization | Pivot Tables | Pivot Charts | Slicers | Business Insights**
-
-## 🚀 How to Use
-
-1. Download the Excel workbook.
-2. Open it in Microsoft Excel.
-3. Go to the dashboard sheet.
-4. Use the available slicers/filters to explore the data.
-5. Analyze the KPIs, charts, and player/team performance.
-
-## 👨‍💻 Project Type
-
-**Data Analytics | Microsoft Excel | Cricket Performance Analysis**
-
----
-
-⭐ If you find this project useful, feel free to star the repository.
 
